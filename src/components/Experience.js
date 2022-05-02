@@ -5,23 +5,21 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <i>Clayton State University</i>, 2014-2018
+                    <i>Associate EDI Analyst </i><strong>- PlanSource</strong> May 2021-Present
                     <ul>
-                        <li>Graduated with 3.00 GPA</li>
+                       
                     </ul>
                 </li>
                 <li>
-                    <i>TechFlow</i> - <strong>Blockchain Developer Intern</strong>, 2018-2019
+                    <i>Data Science and Buisness Analytics Intern </i><strong>- The Sparks Foundations</strong>, April 2021 - May 2021
                     <ul>
-                        <li>Studied DApp development</li>
-                        <li>Assisted Research &amp; Development on Web3 Products</li>
+                        
                     </ul>
                 </li>
                 <li>
-                    <i>SpiderChain</i> - <strong>Blockchain Developer</strong>, 2019-2022
+                    <i>Machine Learning Intern </i><strong>- Inventeron Technologies</strong>, Jun 2019 - Jul 2019
                     <ul>
-                        <li>Contributed to smart contract development on client's platform</li>
-                        <li>Peer reviewed &amp; Audited Solidity code</li>
+                        
                     </ul>
                 </li>
             </ul>
